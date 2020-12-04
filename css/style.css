@@ -999,3 +999,10 @@
 		color: #333 !important;
 	}
 
+	.jump
+	{
+		margin-top: 1em;
+		margin-bottom: 1em;
+		padding-bottom: 1em;
+		border-bottom: #000000 1px solid;
+	}
